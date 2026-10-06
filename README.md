@@ -5,7 +5,7 @@
 ## About me
 - Studying: CDCS230, UiTM Shah Alam
 - Currently learning: CSC649 Special Topics in Computer Science
-- My FYP area: still deciding
+- My FYP area: web development
 
 ## Skills and tools
 [List what you know. Example: Python, Git, SQL]
@@ -15,4 +15,4 @@
 
 ## Contact
 - LinkedIn: [your profile link]
-- Email: [a professional email address]
+- Email: asuffiah94@gmail.com
